@@ -249,66 +249,6 @@
       "contractSignedOn": "2010-03-15T22:45:27.341Z",
       "budget": 25165,
       "isActive": false
-    },
-    {
-      "id": 26,
-      "name": "Gutmann - Rogahn",
-      "description": "Business-focused even-keeled hub. Dignissimos dolorem sed sint nostrum repellat et voluptas voluptatem eaque.",
-      "imageUrl": "/assets/placeimg_500_300_arch9.jpg",
-      "contractTypeId": 6,
-      "contractSignedOn": "2012-07-18T12:04:53.879Z",
-      "budget": 82401,
-      "isActive": false
-    },
-    {
-      "id": 27,
-      "name": "Davis and Sons",
-      "description": "Up-sized fresh-thinking complexity. Totam vel possimus omnis delectus dolor non nostrum maxime corporis.",
-      "imageUrl": "/assets/placeimg_500_300_arch7.jpg",
-      "contractTypeId": 1,
-      "contractSignedOn": "2012-09-21T07:38:01.624Z",
-      "budget": 96726,
-      "isActive": true
-    },
-    {
-      "id": 28,
-      "name": "Donnelly and Sons",
-      "description": "Integrated cohesive process improvement. Non aut qui ullam alias qui ea dolorum voluptatem accusamus.",
-      "imageUrl": "/assets/placeimg_500_300_arch10.jpg",
-      "contractTypeId": 3,
-      "contractSignedOn": "2013-07-25T14:44:08.646Z",
-      "budget": 97304,
-      "isActive": true
-    },
-    {
-      "id": 29,
-      "name": "O'Reilly and Sons",
-      "description": "Realigned responsive moratorium. Qui distinctio non assumenda sunt vel a veritatis molestias et.",
-      "imageUrl": "/assets/placeimg_500_300_arch2.jpg",
-      "contractTypeId": 6,
-      "contractSignedOn": "2016-01-29T07:28:39.169Z",
-      "budget": 53052,
-      "isActive": false
-    },
-    {
-      "id": 30,
-      "name": "Schiller - Stehr",
-      "description": "Profound optimal protocol. Fugit praesentium ex iste aperiam sequi recusandae voluptatibus ullam a.",
-      "imageUrl": "/assets/placeimg_500_300_arch10.jpg",
-      "contractTypeId": 6,
-      "contractSignedOn": "2017-04-22T17:11:09.683Z",
-      "budget": 95130,
-      "isActive": true
-    },
-    {
-      "id": 31,
-      "name": "Stamm, Brown and Rippin",
-      "description": "Fundamental modular definition. Beatae est recusandae quia esse voluptatem est quae sint quos.",
-      "imageUrl": "/assets/placeimg_500_300_arch6.jpg",
-      "contractTypeId": 6,
-      "contractSignedOn": "2012-02-18T19:24:11.781Z",
-      "budget": 98884,
-      "isActive": false
     }
   ]
 }
